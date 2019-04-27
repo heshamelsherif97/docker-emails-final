@@ -2,222 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4028e3d-db3b-4453-bb3e-5ea7accb2673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cache_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__at_favre_lib_bcrypt_0_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__at_favre_lib_bytes_0_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_core_io_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_java_client_2_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_3_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_19_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/000010.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/000012.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/COCKROACHDB_VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/CURRENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/IDENTITY" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/MANIFEST-000008" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/OPTIONS-000005" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/000003.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/COCKROACHDB_VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/CURRENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/IDENTITY" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/MANIFEST-000001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/OPTIONS-000005" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach-temp236632942/TEMP_DIR.LOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach.advertise-addr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach.http-addr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/cockroach.listen-addr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/logs/cockroach.archiso.vbox.2019-04-10T11_16_31Z.001908.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/logs/cockroach.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cockroach-data/temp-dirs-record.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/createUsers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emails.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rules.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/UserCommandsConfig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/AddEmailToFolderCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/AppThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/CommandMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/AddCommandCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/CommandHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/ContinueCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/ControlCommandMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/ControllerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/ControllerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/DeleteCommandCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/DynamicClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/EditClassesCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/FileUploader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/FreezeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/MapHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/PropertiesHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/SetMaxDBConnectionsCountCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/SetMaxThreadCountCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/SingletonClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/UpdateClassCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/UpdateCommandCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/configCommandMap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/CreateEmailCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/CreateFolderCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/CreateRuleCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/DeleteEmailCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/DeleteFolderCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/DeleteFromTrashCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/EditEmailDraftCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/EmptySpamPeriodicallyCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/EncryptDecrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ForwardEmailCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/HelloCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ListEmailsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/OrderEmailsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/RPCServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/RemoveEmailFromFolderCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ReplyToEmailCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ReportEmailForSpamCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ScheduleEmailsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/SearchInboxCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/SendEmailCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/TestCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ViewDraftsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ViewFolderCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ViewFoldersCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ViewSentCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ViewThreadCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/Emails/ViewTrashCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/JsonArrayToObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CommandPattern/ResultSetConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CorrelationID/RPCClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CorrelationID/RPCServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyHTTP/HTTPHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyHTTP/HTTPServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyHTTP/JSONHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyHTTP/NettyHTTPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyHTTP/authHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyHTTP/testingHttp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Redis/Redis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cache-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Command.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/DBConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Email.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/AddEmailToFolderCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/AppThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/CommandMap$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/CommandMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/AddCommandCommand$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/AddCommandCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/CommandHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/ContinueCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/ControlCommandMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/ControllerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/ControllerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/DeleteCommandCommand$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/DeleteCommandCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/DynamicClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/EditClassesCommands$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/EditClassesCommands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/FileUploader$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/FileUploader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/FreezeCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/MapHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/PropertiesHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/SetMaxDBConnectionsCountCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/SetMaxThreadCountCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/SingletonClassLoader$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/SingletonClassLoader$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/SingletonClassLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/UpdateClassCommand$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/UpdateClassCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/UpdateCommandCommand$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/Controller/UpdateCommandCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/CreateEmailCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/CreateFolderCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/CreateRuleCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/DBConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/DeleteEmailCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/DeleteFolderCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/DeleteFromTrashCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/EditEmailDraftCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/EmptySpamPeriodicallyCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/EncryptDecrypt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ForwardEmailCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/HelloCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ListEmailsCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/OrderEmailsCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/RPCServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/RPCServer$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/RPCServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/RPCServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/RemoveEmailFromFolderCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ReplyToEmailCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ReportEmailForSpamCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ScheduleEmailTimerTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ScheduleEmailsCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ScheduleSpamDeletionTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/SearchInboxCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/SendEmailCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/TestCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ViewDraftsCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ViewFolderCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ViewFoldersCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ViewSentCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ViewThreadCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/Emails/ViewTrashCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/JsonArrayToObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CommandPattern/ResultSetConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CorrelationID/RPCClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CorrelationID/RPCClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CorrelationID/RPCServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CorrelationID/RPCServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/HTTPHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/HTTPServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/JSONHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/NettyHTTPServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/authHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/testingHttp$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/NettyHTTP/testingHttp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Redis/Redis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/original-cache-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -297,7 +82,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="33" />
-          <entry key="properties" value="10" />
+          <entry key="properties" value="11" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -305,7 +90,7 @@
         <counts>
           <entry key="JAVA" value="33" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="10" />
+          <entry key="Properties" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -325,11 +110,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/RPCServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="-1024">
+              <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/configCommandMap.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -454,15 +248,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="CommandPattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docker-emails-new" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CommandPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Emails" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -472,7 +257,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556406262493" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556406608193" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
@@ -537,8 +322,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RPCServer" />
         <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.RPCServer" />
         <item itemvalue="Application.NettyHTTPServer" />
       </list>
     </recent_temporary>
@@ -558,7 +343,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="860" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -661,13 +445,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/UserCommandsConfig.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/configCommandMap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/CommandHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -737,6 +514,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/configCommandMap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/Controller/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -746,8 +530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CommandPattern/Emails/RPCServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="-1024">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
