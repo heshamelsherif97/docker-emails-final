@@ -29,7 +29,8 @@ public class PropertiesHandler implements Command {
             prop.setProperty("CDatabase_url","localhost");
             prop.setProperty("Db_URL2","localhost");
             prop.setProperty("restart", "false");
-            //prop.setProperty("UsersApp","localhost");
+            prop.setProperty("UsersApp","35.188.200.142");
+            prop.setProperty("UsersPort","80");
 
             prop.store(output, null);
         } catch (Exception e) {

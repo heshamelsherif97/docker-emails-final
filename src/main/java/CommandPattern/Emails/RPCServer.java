@@ -18,7 +18,8 @@ public class RPCServer {
     private static String freeze;
 
     private static final String RPC_QUEUE_NAME = "emails";
-
+    private static RPCServer instance = new RPCServer();
+    public static RPCServer getInstance(){return instance;};
     static ExecutorService executor = AppThreadPool.getInstance();
 
     public static void main(String[] argv) {
@@ -27,23 +28,28 @@ public class RPCServer {
         ConnectionFactory factory = new ConnectionFactory();
         //TODO: Get ip:port from config file
         //factory.setHost("localhost");
+        String port = "";
         String url = "" ;
         Properties conf = new Properties();
         try {
 
-            File file = new File("./src/main/java/CommandPattern/userStories/config.properties");
+            File file = new File("./src/main/java/CommandPattern/Emails/Controller/config.properties");
             FileInputStream confLoc = new FileInputStream(file);
             conf.load(confLoc);
             url = conf.getProperty("UsersApp");
+            port = conf.getProperty("UsersPort");
             System.out.print(url + "test");
+
         }
         catch(Exception e)
         {
             System.out.print("DB ip not found");
-            url = " ";
+            url = "localhost";
+            port = "80";
 
         }
-        factory.setHost(conf.getProperty(url));
+        factory.setHost(url);
+        factory.setPort(Integer.parseInt((port)));
         Connection connection = null;
         CommandMap.instantiate();
 

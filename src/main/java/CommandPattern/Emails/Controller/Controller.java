@@ -10,7 +10,8 @@ import io.netty.handler.logging.LogLevel;
 import io.netty.handler.logging.LoggingHandler;
 
 public class Controller {
-
+    public static Controller getInstance(){return instance;};
+    private static Controller instance = new Controller();
     public static void start(int port) {
 
         EventLoopGroup bossGroup = new NioEventLoopGroup(1);
